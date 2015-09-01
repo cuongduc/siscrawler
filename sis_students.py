@@ -96,10 +96,10 @@ def get_student(driver, cohort, start, end):
         	try:
         		row = driver.find_element_by_xpath('//*[@id="MainContent_gvStudents_DXDataRow0"]')
         		cells = row.find_elements(By.CLASS_NAME, "dxgv")
-        		f.write(cells[0].text + "|" + cells[1].text + "|" +
-        			  cells[2].text + "|" + cells[3].text + "|" +
-        			  cells[4].text + "|" + cells[5].text + "|" +
-        			  cells[6].text + "|" + cells[7].text + "|" + str(cohort))
+        		f.write(cells[0].text + "," + cells[1].text + "," +
+        			  cells[2].text + "," + cells[3].text + "," +
+        			  cells[4].text + "," + cells[5].text + "," +
+        			  cells[6].text + "," + cells[7].text + "," + str(cohort))
         		f.write('\n')
         		print(cells[0].text)
         	except NoSuchElementException:
