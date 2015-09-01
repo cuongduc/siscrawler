@@ -63,13 +63,13 @@ def make_id_list(cohort, start, end):
 
 	return id_list
 
-def crawl(driver, cohort, start, end):
+def crawl(driver, cohort, start, end, semester):
 	driver.get("http://sis.hust.edu.vn/ModuleSearch/StudentRegister.aspx")
 	ids = make_id_list(cohort, start, end)
 	file = codecs.open(cohort + '_course_registration.csv', 'a', 'utf-8')
 	
 	for id in ids:
-		get_registration(driver, id, file)
+		get_registration(driver, id, file, semester)
 
 	file.close()
 
@@ -96,7 +96,7 @@ def get_registration(driver, id, file):
 				class_type   = cells[8].text
 				reg_status   = cells[10].text
 				
-				str_to_write = student_id + '|' + class_id + '|' + class_type + '|' + course_id + '|' + course_title + '|' reg_status + '\n'
+				str_to_write = semester + '|' + student_id + '|' + class_id + '|' + class_type + '|' + course_id + '|' + course_title + '|' reg_status + '\n'
 				file.write(str_to_write)
 				student = student_id
 
@@ -109,12 +109,13 @@ def get_registration(driver, id, file):
 	except TimeoutException:
 		print("Timeout for retrieving student's class registration list")
 def main(argv):
-	driver = init_driver()
-	cohort = argv[0]
-	start  = argv[1]
-	end    = argv[2]
+	driver   = init_driver()
+	cohort   = argv[0]
+	start    = argv[1]
+	end      = argv[2]
+	semester = argv[3]
 
-	crawl(driver, cohort, start, end)
+	crawl(driver, cohort, start, end, semester)
 
 	time.sleep(5)
 	driver.quit()
