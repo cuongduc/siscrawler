@@ -83,7 +83,7 @@ def get_student(driver, cohort, start, end):
     driver.get("http://sis.hust.edu.vn/ModuleSearch/GroupList.aspx")
     queries = make_id_list(cohort, start, end)
     
-    f = codecs.open(str(cohort)+'.csv', 'a', 'utf-8')
+    f = codecs.open('data/' + str(cohort)+'.csv', 'a', 'utf-8')
     try:
     	# The student id input field
         input = driver.wait.until(EC.presence_of_element_located((By.NAME, "ctl00$MainContent$tbStudentID")))
