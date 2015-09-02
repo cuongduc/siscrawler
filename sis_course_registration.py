@@ -66,7 +66,7 @@ def make_id_list(cohort, start, end):
 def crawl(driver, cohort, start, end, semester):
 	driver.get("http://sis.hust.edu.vn/ModuleSearch/StudentRegister.aspx")
 	ids = make_id_list(cohort, start, end)
-	file = codecs.open(cohort + '_course_registration.csv', 'a', 'utf-8')
+	file = codecs.open('data/' + cohort + '_course_registration.csv', 'a', 'utf-8')
 	
 	for id in ids:
 		get_registration(driver, id, file, semester)
