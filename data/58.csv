@@ -88,7 +88,7 @@
 20130108,Lê,Việt,Anh,25.10.1995,KT môi trường 02 K58,Kỹ thuật Môi trường-2013,571,58
 20130109,Lương,Đức,Anh,11.07.1995,KT hóa học 04 K58,Kỹ thuật hóa học-2013,571,58
 20130110,Lương,Xuân Việt,Anh,12.02.1995,KT điện 01 K58,Kỹ thuật Điện-2013,571,58
-20130111,Mai, ,Anh,07.04.1995,KT Nhiệt-Lạnh 02 K58,Kỹ thuật Nhiệt-Lạnh-2013,571,58
+20130111,Mai,NULL,Anh,07.04.1995,KT Nhiệt-Lạnh 02 K58,Kỹ thuật Nhiệt-Lạnh-2013,571,58
 20130112,Mai,Ngọc,Anh,18.10.1995,KT sinh học 02 K58,Kỹ thuật sinh học-2013,571,58
 20130113,Mai,Thế,Anh,07.03.1995,KSTN - CNTT K58,KSTN-CNTT-2013,571,58
 20130114,Mạnh,Tuấn,Anh,25.07.1995,KT ĐT-TT 04 K58,Điện tử-Truyền thông-2013,571,58
@@ -172,7 +172,7 @@
 20130206,Phạm,Thị Kim,Anh,22.11.1995,KT hóa học 03 K58,Kỹ thuật hóa học-2013,571,58
 20130209,Phạm,Tuấn,Anh,17.04.1995,BK3.01 K58,Khối KT nhóm ngành 3-2013,572,58
 20130210,Phạm,Việt,Anh,08.09.1995,KT tàu thủy K58,Kỹ thuật tàu thủy-2013,571,58
-20130211,Phùng, ,Anh,06.08.1995,KT điều khiển-TĐH 05 K58,Kỹ thuật Điều khiển & TĐH-2013,571,58
+20130211,Phùng,NULL,Anh,06.08.1995,KT điều khiển-TĐH 05 K58,Kỹ thuật Điều khiển & TĐH-2013,571,58
 20130212,Phùng,Ngọc,Anh,27.04.1995,KT môi trường 02 K58,Kỹ thuật Môi trường-2013,571,58
 20130213,Phùng,Tuấn,Anh,03.09.1995,KT điều khiển-TĐH 04 K58,Kỹ thuật Điều khiển & TĐH-2013,571,58
 20130215,Thái,Nam,Anh,25.09.1995,KT cơ khí 05 K58,Kỹ thuật cơ khí-2013,572,58
@@ -825,7 +825,7 @@
 20130965,Vũ,Doãn,Đồng,26.10.1995,KT hóa học 03 K58,Kỹ thuật hóa học-2013,571,58
 20130966,Lê,Văn,Đỗ,19.02.1995,KT cơ khí ĐL 02 K58,Kỹ thuật Cơ khí động lực-2013,571,58
 20130967,Bùi,Duy,Độ,12.07.1995,CTTT-Điện ĐT K58,CTTT-điện ĐT-2013,571,58
-20130968,Đoàn, ,Độ,17.07.1995,CTTT-Cơ điện tử K58,CTTT-CĐT-2013,571,58
+20130968,Đoàn,NULL,Độ,17.07.1995,CTTT-Cơ điện tử K58,CTTT-CĐT-2013,571,58
 20130970,Phạm,Minh,Đương,13.01.1995,CNTT1 02 K58,CT Nhóm ngành CNTT-TT 1-2013,571,58
 20130971,Lê,Văn,Được,04.08.1995,KT hạt nhân K58,Kỹ thuật Hạt nhân-2013,571,58
 20130974,Bùi,Việt,Đức,09.03.1995,CTTT-Điện ĐT K58,CTTT-điện ĐT-2013,571,58
@@ -1327,7 +1327,7 @@
 20131557,Phạm,Đức,Hoàn,17.05.1995,CNTT2 04 K58,CT Nhóm ngành CNTT-TT 2-2013,571,58
 20131559,Tạ,Đức,Hoàn,07.12.1995,CNTT2 02 K58,CT Nhóm ngành CNTT-TT 2-2013,571,58
 20131560,Tạ,Thị,Hoàn,15.04.1995,KT hóa học 06 K58,Kỹ thuật hóa học-2013,571,58
-20131561,Trần, ,Hoàn,04.09.1995,KT ĐT-TT 03 K58,Điện tử-Truyền thông-2013,571,58
+20131561,Trần,NULL,Hoàn,04.09.1995,KT ĐT-TT 03 K58,Điện tử-Truyền thông-2013,571,58
 20131562,Trần,Danh,Hoàn,17.11.1995,CNTT2 02 K58,CT Nhóm ngành CNTT-TT 2-2013,571,58
 20131563,Trần,Ngọc,Hoàn,16.11.1995,Toán tin K58,Toán-Tin ứng dụng-2013,571,58
 20131564,Trịnh,Văn,Hoàn,20.02.1995,KT điều khiển-TĐH 01 K58,Kỹ thuật Điều khiển & TĐH-2013,571,58
@@ -1625,7 +1625,7 @@
 20131911,Tô,Ngọc,Hùng,12.11.1995,KT cơ khí 06 K58,Kỹ thuật cơ khí-2013,571,58
 20131912,Tống,Đức,Hùng,13.10.1995,KT hóa học 02 K58,Kỹ thuật hóa học-2013,571,58
 20131913,Tống,Văn,Hùng,18.07.1995,KT cơ khí ĐL 02 K58,Kỹ thuật Cơ khí động lực-2013,571,58
-20131914,Trần, ,Hùng,23.07.1994,KT cơ khí ĐL 02 K58,Kỹ thuật Cơ khí động lực-2013,571,58
+20131914,Trần,NULL,Hùng,23.07.1994,KT cơ khí ĐL 02 K58,Kỹ thuật Cơ khí động lực-2013,571,58
 20131915,Trần,Mạnh,Hùng,26.09.1995,KT điều khiển-TĐH 05 K58,Kỹ thuật Điều khiển & TĐH-2013,571,58
 20131916,Trần,Mạnh,Hùng,27.07.1995,KT điều khiển-TĐH 03 K58,Kỹ thuật Điều khiển & TĐH-2013,571,58
 20131918,Trần,Phi,Hùng,28.07.1995,KT Nhiệt-Lạnh 01 K58,Kỹ thuật Nhiệt-Lạnh-2013,576,58
@@ -1698,7 +1698,6 @@
 20131992,Nguyễn,Thị,Hương,01.07.1995,KT hóa học 04 K58,Kỹ thuật hóa học-2013,571,58
 20131993,Nguyễn,Thị,Hương,03.10.1995,Luyện kim K58,KT vật liệu kim loại (LK)-2013,571,58
 20131994,Nguyễn,Thị,Hương,11.06.1994,KT môi trường 02 K58,Kỹ thuật Môi trường-2013,571,58
-20131996,Nguyễn,Thị,Hương,15.06.1995,CNTT2 01 K58,CT Nhóm ngành CNTT-TT 2-2013,571,58
 20131996,Nguyễn,Thị,Hương,15.06.1995,CNTT2 01 K58,CT Nhóm ngành CNTT-TT 2-2013,571,58
 20131998,Nguyễn,Thị Thanh,Hương,05.08.1995,KT môi trường 01 K58,Kỹ thuật Môi trường-2013,572,58
 20132000,Nguyễn,Thị Thu,Hương,20.04.1995,KT môi trường 01 K58,Kỹ thuật Môi trường-2013,571,58
@@ -1881,9 +1880,6 @@
 20132200,Khuất,Hoàng,Lâm,04.11.1995,KT vật liệu K58,Kỹ thuật vật liệu-2013,571,58
 20132201,Lê,Tùng,Lâm,01.10.1995,Hóa học K58,Hóa học-2013,571,58
 20132202,Mạc,Thị,Lâm,04.10.1995,KT thực phẩm 01 K58,Kỹ thuật thực phẩm-2013,571,58
-20132202,Mạc,Thị,Lâm,04.10.1995,KT thực phẩm 01 K58,Kỹ thuật thực phẩm-2013,571,58
-20132202,Mạc,Thị,Lâm,04.10.1995,KT thực phẩm 01 K58,Kỹ thuật thực phẩm-2013,571,58
-20132204,Nguyễn,Quang,Lâm,23.04.1995,KT cơ khí 01 K58,Kỹ thuật cơ khí-2013,571,58
 20132204,Nguyễn,Quang,Lâm,23.04.1995,KT cơ khí 01 K58,Kỹ thuật cơ khí-2013,571,58
 20132207,Nguyễn,Tiến,Lâm,03.03.1992,CNTT1 02 K58,CT Nhóm ngành CNTT-TT 1-2013,571,58
 20132208,Nguyễn,Tùng,Lâm,01.12.1995,KT hạt nhân K58,Kỹ thuật Hạt nhân-2013,571,58
@@ -2194,7 +2190,7 @@
 20132582,Lương,Văn,Minh,27.07.1995,KT cơ khí 04 K58,Kỹ thuật cơ khí-2013,571,58
 20132584,Ngô,Quang,Minh,12.02.1995,KT hóa học 05 K58,Kỹ thuật hóa học-2013,571,58
 20132585,Ngô,Xuân,Minh,07.10.1995,KT cơ khí ĐL 02 K58,Kỹ thuật Cơ khí động lực-2013,571,58
-20132586,Nguyễn, ,Minh,10.08.1995,KSTN - ĐTVT K58,KSTN-ĐTVT-2013,571,58
+20132586,Nguyễn,NULL,Minh,10.08.1995,KSTN - ĐTVT K58,KSTN-ĐTVT-2013,571,58
 20132587,Nguyễn,Bình,Minh,05.08.1995,Luyện kim K58,KT vật liệu kim loại (LK)-2013,571,58
 20132588,Nguyễn,Công,Minh,05.04.1995,Luyện kim K58,KT vật liệu kim loại (LK)-2013,571,58
 20132590,Nguyễn,Đình,Minh,22.12.1995,KT điều khiển-TĐH 05 K58,Kỹ thuật Điều khiển & TĐH-2013,571,58
@@ -2265,7 +2261,7 @@
 20132663,Lương,Văn,Nam,16.08.1995,KT thực phẩm 02 K58,Kỹ thuật thực phẩm-2013,571,58
 20132665,Mạc,Văn,Nam,17.01.1995,KT cơ khí 03 K58,Kỹ thuật cơ khí-2013,571,58
 20132666,Ngô,Văn,Nam,30.01.1995,Luyện kim K58,KT vật liệu kim loại (LK)-2013,571,58
-20132667,Nguyễn, ,Nam,24.03.1995,KT điều khiển-TĐH 02 K58,Kỹ thuật Điều khiển & TĐH-2013,571,58
+20132667,Nguyễn,NULL,Nam,24.03.1995,KT điều khiển-TĐH 02 K58,Kỹ thuật Điều khiển & TĐH-2013,571,58
 20132669,Nguyễn,Đình,Nam,08.03.1995,KT cơ khí ĐL 02 K58,Kỹ thuật Cơ khí động lực-2013,571,58
 20132670,Nguyễn,Đức,Nam,06.04.1994,KT điều khiển-TĐH 03 K58,Kỹ thuật Điều khiển & TĐH-2013,571,58
 20132671,Nguyễn,Đức,Nam,26.12.1994,KT ĐT-TT 03 K58,Điện tử-Truyền thông-2013,571,58
@@ -2432,7 +2428,7 @@
 20132860,Ngô,Đức,Nhật,08.09.1995,CNTT2 04 K58,CT Nhóm ngành CNTT-TT 2-2013,571,58
 20132862,Nguyễn,Đức,Nhật,09.11.1995,KT cơ khí 06 K58,Kỹ thuật cơ khí-2013,571,58
 20132863,Nguyễn,Hồng,Nhật,26.09.1995,KT cơ điện tử 01 K58,Kỹ thuật Cơ điện tử-2013,571,58
-20132864,Phạm, ,Nhật,16.07.1995,CNTT2 02 K58,CT Nhóm ngành CNTT-TT 2-2013,571,58
+20132864,Phạm,NULL,Nhật,16.07.1995,CNTT2 02 K58,CT Nhóm ngành CNTT-TT 2-2013,571,58
 20132865,Phạm,Đình,Nhật,20.09.1995,KT cơ khí ĐL 01 K58,Kỹ thuật Cơ khí động lực-2013,571,58
 20132868,Trần,Đình,Nhật,16.01.1995,KT điều khiển-TĐH 02 K58,Kỹ thuật Điều khiển & TĐH-2013,571,58
 20132870,Cao,Thị,Nhi,05.08.1995,Việt Nhật B K58,CNTT Việt Nhật 2013,571,58
@@ -2609,7 +2605,7 @@
 20133078,Đỗ,Minh,Quang,15.09.1995,KT hóa học 07 K58,Kỹ thuật hóa học-2013,571,58
 20133079,Đỗ,Văn,Quang,04.02.1995,KT hóa học 08 K58,Kỹ thuật hóa học-2013,571,58
 20133080,Đỗ,Văn,Quang,05.12.1995,KT Nhiệt-Lạnh 01 K58,Kỹ thuật Nhiệt-Lạnh-2013,571,58
-20133082,Hoàng, ,Quang,15.12.1995,KT hóa học 06 K58,Kỹ thuật hóa học-2013,571,58
+20133082,Hoàng,NULL,Quang,15.12.1995,KT hóa học 06 K58,Kỹ thuật hóa học-2013,571,58
 20133083,Lê,Duy,Quang,08.06.1993,KT điều khiển-TĐH 01 K58,Kỹ thuật Điều khiển & TĐH-2013,571,58
 20133084,Lê,Ngọc,Quang,06.10.1995,KT hóa học 01 K58,Kỹ thuật hóa học-2013,571,58
 20133085,Ngô,Lê Đoàn,Quang,21.05.1995,KT hóa học 05 K58,Kỹ thuật hóa học-2013,571,58
@@ -2652,7 +2648,7 @@
 20133129,Đặng,Văn,Quân,09.07.1995,Vật lý KT 01 K58,Vật lý kỹ thuật-2013,571,58
 20133130,Đỗ,Hồng,Quân,17.06.1995,Toán tin K58,Toán-Tin ứng dụng-2013,576,58
 20133131,Đỗ,Mạnh,Quân,06.01.1995,CTTT-Cơ điện tử K58,CTTT-CĐT-2013,571,58
-20133132,Hoàng, ,Quân,09.11.1995,Hóa học K58,Hóa học-2013,571,58
+20133132,Hoàng,NULL,Quân,09.11.1995,Hóa học K58,Hóa học-2013,571,58
 20133133,Hoàng,Minh,Quân,10.03.1995,CNTT2 02 K58,CT Nhóm ngành CNTT-TT 2-2013,571,58
 20133134,Hoàng,Văn,Quân,13.08.1995,KT ĐT-TT 03 K58,Điện tử-Truyền thông-2013,571,58
 20133135,La,Văn,Quân,17.11.1995,KSTN - CNTT K58,KSTN-CNTT-2013,571,58
@@ -2677,7 +2673,7 @@
 20133159,Phạm,Văn,Quân,15.06.1995,KT điều khiển-TĐH 02 K58,Kỹ thuật Điều khiển & TĐH-2013,571,58
 20133160,Phạm,Văn,Quân,26.02.1995,KT In & truyền thông K58,Kỹ thuật in & TT-2013,571,58
 20133161,Phùng,Khắc,Quân,15.03.1995,KT cơ khí 05 K58,Kỹ thuật cơ khí-2013,571,58
-20133162,Trần, ,Quân,10.01.1995,KT cơ khí 05 K58,Kỹ thuật cơ khí-2013,571,58
+20133162,Trần,NULL,Quân,10.01.1995,KT cơ khí 05 K58,Kỹ thuật cơ khí-2013,571,58
 20133163,Trần,Đăng,Quân,04.05.1995,KT cơ khí 04 K58,Kỹ thuật cơ khí-2013,571,58
 20133164,Trần,Đình,Quân,25.01.1995,KT cơ khí 05 K58,Kỹ thuật cơ khí-2013,571,58
 20133165,Trần,Đình,Quân,31.07.1994,KT Dệt May 01 K58,Kỹ thuật Dệt May-2013,571,58
@@ -2853,7 +2849,7 @@
 20133367,Trịnh,Ngọc,Sơn,30.04.1994,Kỹ thuật cơ khí 2 K59,Kỹ thuật cơ khí-2014,571,58
 20133368,Trương,Công,Sơn,13.09.1994,BK1.18 K58,Khối KT nhóm ngành 1-2013,573,58
 20133369,Trương,Minh,Sơn,06.04.1995,KT cơ điện tử 02 K58,Kỹ thuật Cơ điện tử-2013,571,58
-20133370,Vi, ,Sơn,08.02.1995,KT ĐT-TT 04 K58,Điện tử-Truyền thông-2013,571,58
+20133370,Vi,NULL,Sơn,08.02.1995,KT ĐT-TT 04 K58,Điện tử-Truyền thông-2013,571,58
 20133371,Vũ,Anh,Sơn,23.11.1995,Việt Nhật A K58,CNTT Việt Nhật 2013,571,58
 20133372,Vũ,Cao,Sơn,05.08.1995,Việt Nhật C K58,CNTT Việt Nhật 2013,571,58
 20133373,Vũ,Hoàng,Sơn,01.05.1995,KT hóa học 06 K58,Kỹ thuật hóa học-2013,571,58
@@ -3031,7 +3027,7 @@
 20133574,Lê,Quang,Thái,25.10.1995,KT cơ khí 03 K58,Kỹ thuật cơ khí-2013,571,58
 20133576,Lê,Văn,Thái,04.05.1994,BK0.02 K58,BK0-2013,574,58
 20133577,Lê,Xuân,Thái,08.04.1995,KT cơ khí 03 K58,Kỹ thuật cơ khí-2013,571,58
-20133578,Lương, ,Thái,14.03.1995,KT hóa học 07 K58,Kỹ thuật hóa học-2013,571,58
+20133578,Lương,NULL,Thái,14.03.1995,KT hóa học 07 K58,Kỹ thuật hóa học-2013,571,58
 20133579,Nguyễn,Đăng,Thái,29.10.1995,KT cơ khí ĐL 02 K58,Kỹ thuật Cơ khí động lực-2013,571,58
 20133581,Nguyễn,Hoàng,Thái,16.03.1995,KT cơ khí 01 K58,Kỹ thuật cơ khí-2013,571,58
 20133582,Nguyễn,Hữu,Thái,05.09.1995,KT tàu thủy K58,Kỹ thuật tàu thủy-2013,571,58
@@ -3522,7 +3518,7 @@
 20134135,Phạm,Đức,Trọng,27.01.1995,KT sinh học 02 K58,Kỹ thuật sinh học-2013,571,58
 20134136,Trần,Hưng,Trọng,14.08.1995,KT cơ khí ĐL 01 K58,Kỹ thuật Cơ khí động lực-2013,571,58
 20134137,Trương,Văn,Trọng,19.01.1994,Vật lý KT 01 K58,Vật lý kỹ thuật-2013,571,58
-20134138,Bùi, ,Trung,12.09.1995,CNTT1 02 K58,CT Nhóm ngành CNTT-TT 1-2013,571,58
+20134138,Bùi,NULL,Trung,12.09.1995,CNTT1 02 K58,CT Nhóm ngành CNTT-TT 1-2013,571,58
 20134139,Cao,Văn,Trung,12.06.1995,BK1.13 K58,Khối KT nhóm ngành 1-2013,574,58
 20134140,Chu,Quang,Trung,24.03.1995,KT cơ điện tử 03 K58,Kỹ thuật Cơ điện tử-2013,571,58
 20134141,Chử,Đức,Trung,24.03.1996,KT cơ khí 07 K58,Kỹ thuật cơ khí-2013,571,58
@@ -3624,7 +3620,7 @@
 20134244,Lưu,Văn,Tuân,08.02.1994,KT Nhiệt-Lạnh 02 K58,Kỹ thuật Nhiệt-Lạnh-2013,573,58
 20134246,Nguyễn,Huy,Tuân,02.05.1995,KT cơ khí ĐL 01 K58,Kỹ thuật Cơ khí động lực-2013,571,58
 20134247,Nguyễn,Ngọc,Tuân,01.01.1995,KT tàu thủy K58,Kỹ thuật tàu thủy-2013,571,58
-20134249,Phạm, ,Tuân,24.01.1995,KSTN - Cơ điện tử K58,KSTN-CĐT-2013,571,58
+20134249,Phạm,NULL,Tuân,24.01.1995,KSTN - Cơ điện tử K58,KSTN-CĐT-2013,571,58
 20134250,Phạm,Quang,Tuân,30.04.1995,KT cơ khí ĐL 01 K58,Kỹ thuật Cơ khí động lực-2013,571,58
 20134251,Phạm,Văn,Tuân,17.11.1995,KT hạt nhân K58,Kỹ thuật Hạt nhân-2013,571,58
 20134252,Phạm,Xuân,Tuân,18.12.1995,KT cơ điện tử 01 K58,Kỹ thuật Cơ điện tử-2013,571,58
@@ -3697,7 +3693,7 @@
 20134331,Tạ,Quang,Tuấn,26.05.1995,KT hạt nhân K58,Kỹ thuật Hạt nhân-2013,571,58
 20134332,Thái,Huy,Tuấn,06.06.1995,KT điện 01 K58,Kỹ thuật Điện-2013,571,58
 20134333,Tô,Minh,Tuấn,25.09.1995,KT điều khiển-TĐH 04 K58,Kỹ thuật Điều khiển & TĐH-2013,571,58
-20134334,Trần, ,Tuấn,02.03.1995,KT ĐT-TT 03 K58,Điện tử-Truyền thông-2013,573,58
+20134334,Trần,NULL,Tuấn,02.03.1995,KT ĐT-TT 03 K58,Điện tử-Truyền thông-2013,573,58
 20134335,Trần,Anh,Tuấn,12.08.1995,KT cơ khí 04 K58,Kỹ thuật cơ khí-2013,571,58
 20134336,Trần,Đức,Tuấn,01.10.1995,Hóa học K58,Hóa học-2013,576,58
 20134337,Trần,Hoàng,Tuấn,03.03.1995,KT cơ khí 03 K58,Kỹ thuật cơ khí-2013,571,58
@@ -3738,7 +3734,7 @@
 20134376,Bùi,Duy,Tùng,06.05.1995,CTTT-KHVL K58,CTTT-KHVL-2013,571,58
 20134377,Bùi,Thanh,Tùng,14.04.1995,ICT-58,ICT-2013,572,58
 20134379,Chu,Văn,Tùng,14.03.1995,KT cơ khí 08 K58,Kỹ thuật cơ khí-2013,571,58
-20134380,Dương, ,Tùng,11.11.1995,CTTT-Cơ điện tử K58,CTTT-CĐT-2013,571,58
+20134380,Dương,NULL,Tùng,11.11.1995,CTTT-Cơ điện tử K58,CTTT-CĐT-2013,571,58
 20134381,Dương,Quốc,Tùng,13.01.1995,KT tàu thủy K58,Kỹ thuật tàu thủy-2013,571,58
 20134382,Dương,Thanh,Tùng,08.05.1995,KT hàng không K58,Kỹ thuật Hàng không-2013,571,58
 20134384,Đào,Sơn,Tùng,31.07.1995,KT điện 02 K58,Kỹ thuật Điện-2013,571,58
@@ -4321,7 +4317,7 @@
 20135267,Hoàng,Trọng,Dũng,08.08.1995,CN-KT Cơ điện tử 01 K58,CN-CN KT Cơ điện tử-2013,574,58
 20135268,Lê,Văn,Dũng,01.12.1991,CN2.02 K58,Khối CN nhóm 2-2013,574,58
 20135269,Lê,Văn,Dũng,09.03.1995,CN-Điều khiển-TĐH 02 K58,CN-CN KT Điều khiển & TĐH-2013,571,58
-20135270,Nguyễn, ,Dũng,05.08.1995,CN-CNTT 02 K58,CN - Công nghệ thông tin-2013,571,58
+20135270,Nguyễn,NULL,Dũng,05.08.1995,CN-CNTT 02 K58,CN - Công nghệ thông tin-2013,571,58
 20135271,Nguyễn,Đắc,Dũng,31.10.1995,CN-KT Cơ điện tử 01 K58,CN-CN KT Cơ điện tử-2013,571,58
 20135273,Nguyễn,Mạnh,Dũng,06.06.1995,KT6.05 K58,Nhóm ngành kinh tế-2013,574,58
 20135274,Nguyễn,Văn,Dũng,04.08.1995,CN-KT Cơ điện tử 02 K58,CN-CN KT Cơ điện tử-2013,571,58
@@ -4455,7 +4451,7 @@
 20135416,Nguyễn,Bá,Giáp,23.01.1995,CN-KT Cơ điện tử 01 K58,CN-CN KT Cơ điện tử-2013,571,58
 20135417,Trần,Đăng,Hanh,08.10.1995,CN-CNTT 02 K58,CN - Công nghệ thông tin-2013,571,58
 20135418,Nguyễn,Đức,Hay,01.07.1995,CN1.01 K58,Khối CN nhóm 1-2013,574,58
-20135419,Hoàng, ,Hà,01.10.1995,Quản lý CN K58,Quản lý công nghiệp-2013,571,58
+20135419,Hoàng,NULL,Hà,01.10.1995,Quản lý CN K58,Quản lý công nghiệp-2013,571,58
 20135421,Khổng,Thị Thu,Hà,02.09.1995,Kế toán K58,Kế toán-2013,571,58
 20135422,Lê,Thị Thu,Hà,06.09.1995,Kế toán K58,Kế toán-2013,571,58
 20135423,Lê,Văn,Hà,06.03.1995,CN-CN kỹ thuật ô tô 01 K58,CN- CN kỹ thuật Ô tô-2013,574,58
@@ -4691,7 +4687,7 @@
 20135672,Lê,Quang,Huy,04.06.1995,KT6.03 K58,Nhóm ngành kinh tế-2013,574,58
 20135673,Lương,Văn,Huy,18.08.1995,CN-KT Cơ điện tử 02 K58,CN-CN KT Cơ điện tử-2013,571,58
 20135674,Ngô,Hoàng,Huy,15.11.1995,CN-Thực phẩm 02 K58,CN- Công nghệ thực phẩm-2013,571,58
-20135676,Nguyễn, ,Huy,24.02.1995,TA1.03 K58,Tiếng anh nhóm 1 2013,571,58
+20135676,Nguyễn,NULL,Huy,24.02.1995,TA1.03 K58,Tiếng anh nhóm 1 2013,571,58
 20135677,Nguyễn,Đình,Huy,18.02.1994,CN-CNTT 02 K58,CN - Công nghệ thông tin-2013,571,58
 20135678,Nguyễn,Đình,Huy,27.05.1995,CN2.04 K58,Khối CN nhóm 2-2013,574,58
 20135679,Nguyễn,Quang,Huy,01.10.1995,CN-KT hóa học 02 K58,CN-Công nghệ KT Hóa học-2013,571,58
@@ -4827,7 +4823,7 @@
 20135823,Tạ,Thị Thanh,Lam,13.09.1995,TC-Ngân hàng K58,Tài chính-Ngân hàng-2013,576,58
 20135824,Đàm,Thị,Lan,11.05.1995,TC-Ngân hàng K58,Tài chính-Ngân hàng-2013,572,58
 20135825,Đinh,Thị Thanh,Lan,09.11.1994,TC-Ngân hàng K58,Tài chính-Ngân hàng-2013,571,58
-20135826,Hoàng, ,Lan,06.04.1995,Quản lý CN K58,Quản lý công nghiệp-2013,571,58
+20135826,Hoàng,NULL,Lan,06.04.1995,Quản lý CN K58,Quản lý công nghiệp-2013,571,58
 20135827,Nguyễn,Ngọc,Lan,27.10.1995,TA1.04 K58,Tiếng anh nhóm 1 2013,571,58
 20135828,Nguyễn,Thị,Lan,03.11.1995,TA2.03 K58,Tiếng anh nhóm 2 2013,571,58
 20135829,Nguyễn,Thị,Lan,12.07.1995,Quản trị KD K58,Quản trị kinh doanh-2013,571,58
@@ -4981,7 +4977,7 @@
 20136000,Nguyễn,Tiến,Mạc,30.10.1995,CN-KT Cơ điện tử 02 K58,CN-CN KT Cơ điện tử-2013,571,58
 20136001,Chu,Đức,Mạnh,05.10.1993,CN-Điện tử TT 01 K58,CN-CN KT Điện tử - TT-2013,571,58
 20136002,Đỗ,Văn,Mạnh,12.07.1995,CN-CNTT 02 K58,CN - Công nghệ thông tin-2013,571,58
-20136004,Hoàng, ,Mạnh,19.02.1994,CN-Điều khiển-TĐH 01 K58,CN-CN KT Điều khiển & TĐH-2013,571,58
+20136004,Hoàng,NULL,Mạnh,19.02.1994,CN-Điều khiển-TĐH 01 K58,CN-CN KT Điều khiển & TĐH-2013,571,58
 20136005,Hoàng,Đức,Mạnh,20.09.1994,Kinh tế CN K58,Kinh tế công nghiệp-2013,574,58
 20136006,Nguyễn,Đức,Mạnh,14.04.1995,CN-Điều khiển-TĐH 02 K58,CN-CN KT Điều khiển & TĐH-2013,571,58
 20136007,Nguyễn,Văn,Mạnh,10.06.1995,CN-CNTT 01 K58,CN - Công nghệ thông tin-2013,571,58
@@ -5382,7 +5378,7 @@
 20136466,Mai,Văn,Thế,19.04.1995,CN-CNTT 02 K58,CN - Công nghệ thông tin-2013,571,58
 20136467,Bùi,Thị,Thi,20.06.1995,Quản lý CN K58,Quản lý công nghiệp-2013,571,58
 20136468,Bùi,Văn,Thiêm,10.03.1994,CN-CN kỹ thuật ô tô 01 K58,CN- CN kỹ thuật Ô tô-2013,571,58
-20136470,Trần, ,Thiết,09.01.1994,CN-Điều khiển-TĐH 01 K58,CN-CN KT Điều khiển & TĐH-2013,571,58
+20136470,Trần,NULL,Thiết,09.01.1994,CN-Điều khiển-TĐH 01 K58,CN-CN KT Điều khiển & TĐH-2013,571,58
 20136471,Cao,Khắc,Thiện,12.10.1995,CN-KT Cơ điện tử 02 K58,CN-CN KT Cơ điện tử-2013,571,58
 20136472,Đoàn,Đình,Thiện,23.07.1995,CN-CTM 02 K58,CN-Công nghệ chế tạo máy-2013,571,58
 20136473,Hà,Văn,Thiện,27.07.1995,CN-Điện tử TT 01 K58,CN-CN KT Điện tử - TT-2013,571,58
@@ -5590,7 +5586,7 @@
 20136703,Lê,Quang,Tuấn,21.04.1995,Kinh tế CN K58,Kinh tế công nghiệp-2013,571,58
 20136704,Ngô,Bá,Tuấn,20.11.1995,CN-Điều khiển-TĐH 02 K58,CN-CN KT Điều khiển & TĐH-2013,571,58
 20136705,Nguyến,Trọng,Tuấn,22.08.1995,CN-KT Cơ điện tử 02 K58,CN-CN KT Cơ điện tử-2013,571,58
-20136706,Nguyễn, ,Tuấn,28.10.1995,CN-KT Cơ điện tử 02 K58,CN-CN KT Cơ điện tử-2013,571,58
+20136706,Nguyễn,NULL,Tuấn,28.10.1995,CN-KT Cơ điện tử 02 K58,CN-CN KT Cơ điện tử-2013,571,58
 20136707,Nguyễn,Anh,Tuấn,02.10.1994,CN-CN kỹ thuật ô tô 01 K58,CN- CN kỹ thuật Ô tô-2013,574,58
 20136708,Nguyễn,Anh,Tuấn,23.05.1995,CN-CNTT 01 K58,CN - Công nghệ thông tin-2013,571,58
 20136710,Nguyễn,Đức,Tuấn,05.01.1995,Quản trị KD K58,Quản trị kinh doanh-2013,576,58
