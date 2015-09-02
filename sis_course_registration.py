@@ -73,7 +73,7 @@ def crawl(driver, cohort, start, end, semester):
 
 	file.close()
 
-def get_registration(driver, id, file):
+def get_registration(driver, id, file, semester):
 	try:
 		# The student id input field
 		input = driver.wait.until(EC.presence_of_element_located((By.NAME, "ctl00$MainContent$tbStudentID")))
@@ -96,7 +96,7 @@ def get_registration(driver, id, file):
 				class_type   = cells[8].text
 				reg_status   = cells[10].text
 				
-				str_to_write = semester + '|' + student_id + '|' + class_id + '|' + class_type + '|' + course_id + '|' + course_title + '|' reg_status + '\n'
+				str_to_write = semester + ',' + student_id + ',' + class_id + ',' + class_type + ',' + course_id + ',' + course_title + ',' + reg_status + '\n'
 				file.write(str_to_write)
 				student = student_id
 
